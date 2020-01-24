@@ -5,6 +5,10 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
+def print_detail():
+    print('Project title : Explore US Bikeshare Data')
+    print('Project description : This project makes use of Python to exploring data related to bike share systems; provided by Motivate; for three major cities in the United States "Chicago", "New York City", and "Washington". The implemented code allows answering interesting questions about it by computing descriptive statistics. The script also takes raw input to create an interactive experience in the terminal to present these statistics.')
+    print('Dataset used : chicago.csv, new_york_city.csv, washington.csv')
 
 def get_filters():
     """
