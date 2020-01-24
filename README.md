@@ -11,24 +11,24 @@ The rise of information technology nowadays facilitates the use of such a system
 
 This project makes use of Python to exploring data related to bike share systems; provided by Motivate; for three major cities in the United States "Chicago", "New York City", and "Washington". The implemented code allows answering interesting questions about it by computing descriptive statistics. The script also takes raw input to create an interactive experience in the terminal to present these statistics.
 
-###Statistics Computed
+### Statistics Computed
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
 
-## Popular times of travel (i.e., occurs most often in the start time)
+# Popular times of travel (i.e., occurs most often in the start time)
 
 most common month
 most common day of week
 most common hour of day
-## Popular stations and trip
+# Popular stations and trip
 
 most common start station
 most common end station
 most common trip from start to end (i.e., most frequent combination of start station and end station)
-## Trip duration
+# Trip duration
 
 total travel time
 average travel time
-## User info
+# User info
 
 counts of each user type
 counts of each gender (only available for NYC and Chicago)
@@ -40,3 +40,5 @@ A python script bikeshare.py is provided to answer the previous statistics. This
 chicago.csv
 new_york_city.csv
 washington.csv
+
+
