@@ -1,7 +1,7 @@
 ### Date created
-Friday, 24th january 2020
+Friday, 24th january 2020.
 ### Project Title
-Explore US Bikeshare Data
+Explore US Bikeshare Data.
 
 ### Description
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world.
